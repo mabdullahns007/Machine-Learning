@@ -1,4 +1,4 @@
-Machine Learning Projects
+# Machine Learning Projects
 
 This repository contains various machine learning tasks. Each task is contained in a separate Jupyter notebook.
 
@@ -25,4 +25,3 @@ This repository contains various machine learning tasks. Each task is contained 
 3. Run each notebook to understand its functionality.
 4. Feel free to modify the code and experiment with it.
 
-We hope you find these tasks useful in your exploration of data science and machine learning!
